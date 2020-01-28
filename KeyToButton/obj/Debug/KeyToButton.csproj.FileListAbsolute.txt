@@ -1,0 +1,7 @@
+C:\Users\Intel-VCSE-7\Desktop\Capstone Project\KeyToButton\bin\Debug\KeyToButton.dll
+C:\Users\Intel-VCSE-7\Desktop\Capstone Project\KeyToButton\bin\Debug\KeyToButton.pdb
+C:\Users\Intel-VCSE-7\Desktop\Capstone Project\KeyToButton\obj\Debug\KeyToButton.csprojAssemblyReference.cache
+C:\Users\Intel-VCSE-7\Desktop\Capstone Project\KeyToButton\obj\Debug\KeyToButton.UserControl1.resources
+C:\Users\Intel-VCSE-7\Desktop\Capstone Project\KeyToButton\obj\Debug\KeyToButton.csproj.GenerateResource.cache
+C:\Users\Intel-VCSE-7\Desktop\Capstone Project\KeyToButton\obj\Debug\KeyToButton.dll
+C:\Users\Intel-VCSE-7\Desktop\Capstone Project\KeyToButton\obj\Debug\KeyToButton.pdb
